@@ -1,0 +1,21 @@
+﻿body {
+    background-color: lightblue;
+}
+h1 {
+    color:purple;
+}
+p {
+    background-color: peru;
+    color:white;
+/*this border element defines a border aoround the HTNL element based on target we given*/
+    border:2px solid black;
+/*this is use in css the propery padding defines a padding space between the text and broder*/
+    padding: 10px
+/*this is css margin property used a mrgin space outside the border*/
+    margin:500px;
+}
+ h2 {
+     font-family:Impact;
+     font-size:300%;
+ }
+ 
